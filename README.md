@@ -9,7 +9,8 @@ This automation project was created in order to apply practically my knowledge o
 +**Selenium** as an automation framework for web application<br/>
 +**Google Chrome** as test browser</br>
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)</br>
-![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)</br>
+![](![selenium 256x249](https://github.com/DeeKinga/automationSelenium/assets/131695090/d77ec2b8-11e2-4e37-9b20-e2c1e7bde6b6)
+)</br>
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg)
 
 
