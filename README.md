@@ -7,9 +7,9 @@ This automation project was created in order to apply practically my knowledge o
 
 **Project technologies**</br>
 ___
--**Python** as a programming language </br>
--**Selenium** as an automation framework for web application<br/>
--**Google Chrome** as test browser</br>
+* **Python** as a programming language </br>
+* **Selenium** as an automation framework for web application<br/>
+* **Google Chrome** as test browser</br>
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 ![selenium 256x249](https://github.com/DeeKinga/automationSelenium/assets/131695090/d77ec2b8-11e2-4e37-9b20-e2c1e7bde6b6)
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg)</br>
