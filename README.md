@@ -8,8 +8,8 @@ This automation project was created in order to apply practically my knowledge o
 +**Python** as a programming language </br>
 +**Selenium** as an automation framework for web application<br/>
 +**Google Chrome** as test browser</br>
-!(https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-!(https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)
+!(https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)</br>
+!(https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)</br>
 !(https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg)
 
 
