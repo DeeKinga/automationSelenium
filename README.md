@@ -20,7 +20,7 @@ As support, I used the website https://www.demo.guru99.com/V4 for these automati
 
 **Testing objectives**</br>
 ___
-This project was thought of as a way to:
+This project was thought of as a way to:</br>
 *check if the login function can be automated in a testing process,</br>
 *check if you can login in with the correct credentials,</br>
 *check what happens if you log in using incorrect credentials,</br>
